@@ -1,7 +1,7 @@
 # quizzez.io
 Simple Quiz App Web Based using ReactJS
 
-## Technology Stack
+### Technology Stack
 <p align="center">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="50" src="https://vitejs.dev/logo.svg" alt="Vite logo">
@@ -22,7 +22,7 @@ Simple Quiz App Web Based using ReactJS
 </p>
 <br/>
 
-## Getting Started
+### Getting Started
 To get started with the Simple Quiz App Web Based using ReactJS, follow these steps:
 
 1. Clone the repository
